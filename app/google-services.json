@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "26517801178",
+    "project_id": "bus20cs3017",
+    "storage_bucket": "bus20cs3017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26517801178:android:9ceb172dfdcb01b186fde3",
+        "android_client_info": {
+          "package_name": "com.example.tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26517801178-vtapn4kc4d28bdufqe22395i5ji0k3gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCysduvOUnHH9s5maDej5iCMEflsNZO0-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26517801178-vtapn4kc4d28bdufqe22395i5ji0k3gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tracking</string>
+    <string name="title_activity_track_bus">track_bus</string>
+    <string name="title_activity_driver_location">driver_location</string>
+</resources>

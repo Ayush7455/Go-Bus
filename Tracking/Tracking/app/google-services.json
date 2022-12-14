@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717842051233",
+    "project_id": "newbustracking-dd75e",
+    "storage_bucket": "newbustracking-dd75e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717842051233:android:94faa39524763dd6ec40e0",
+        "android_client_info": {
+          "package_name": "com.example.tracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717842051233-cbs89753pmvk6pr3a86kfe76scap40a0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByQR9xJcqDBBIBhqiYWmMMFzg4Yq6JwGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717842051233-cbs89753pmvk6pr3a86kfe76scap40a0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
